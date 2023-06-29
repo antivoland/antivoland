@@ -20,7 +20,7 @@ Take a look at my code here:
 - [Microservice](https://github.com/antivoland/onefactor-test) tracking users and solving inverse geodesy problem (2016)
 - Senior level [test assignment](https://github.com/platbox/x-rates-java-test) for employment in an e-commerce company
 - Partial implementation of [pure client](../../../vazhno-api) for an external JSON API (2016)
-- [Experiments](https://github.com/antivoland/nxt) with Lego Mindstorms NXT and [leJOS NXJ](https://lejos.sourceforge.io/) (2014)
+- [Experiments](https://github.com/antivoland/nxt) with Lego Mindstorms NXT and leJOS NXJ (2014)
 - [HTML grabber](../../../slone/tree/master/extractor) retrieving and parsing game model from online game creator (2013)
 - [Remake](../../../dorphl) of semi-intelligent bot [Vosyana](https://github.com/digal/vosyana) (2013)
 
