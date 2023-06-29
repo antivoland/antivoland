@@ -10,7 +10,7 @@ Take a look at my code here:
 
 - [Aggregating client](https://github.com/antivoland/sytac-test) for a SSE (server-sent event) streaming platform with an emoji dramedy in tests (2023)
 - [Grabber](https://github.com/antivoland/job-hunter) for job openings from LinkedIn public search and experiments with Deeplearning4j (2023)
-- Making [one line CLI](https://github.com/antivoland/console-viewport) gaming engine (2022)
+- Making [one line CLI gaming engine](https://github.com/antivoland/console-viewport) (2022)
 - Wikipedia [table parser](https://github.com/antivoland/wiki-parser-for-my-dad) for my dad (2020)
 - [Generic list data structure](https://github.com/antivoland/amazon-test) supporting reverse, filter, map and fold-left operations (2018)
 - Non-blocking [console-based progress bar for Java](https://github.com/creditnet/console-progress-bar) with drunk pirates test (2017)
