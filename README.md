@@ -1,6 +1,12 @@
 # Hi!
 
-I work on Java, spend time on math, basketball and tango. The resources below can show you my code style:
+I am a software engineer with over 20 years of experience in a wide variety of industries, including telecommunications, economic intelligence, fintech and game development. Now I specialize in distributed systems, microservice development, API development and database management. I also had the opportunity to lead teams, mentor junior engineers and play an active role in talent acquisition.
+
+My personal goal is to further develop my skills in functional programming and machine learning, as well as to explore new areas such as robotics and quantum computing.
+
+In addition to my passion for software development, I am also a dog person. My faithful companion Gauss, named after the famous mathematician, always keeps me company during working marathons and makes me smile with his cheerful behavior.
+
+Take a look at my code here:
 
 - [Client](https://github.com/antivoland/sytac-test) for a SSE (server-sent event) streaming platform with an emoji dramedy in tests (2023)
 - [Grabber](https://github.com/antivoland/job-hunter) for job openings from LinkedIn public search and experiments with Deeplearning4j (2023)
@@ -13,7 +19,7 @@ I work on Java, spend time on math, basketball and tango. The resources below ca
 - Backing implementation of [money transfers](https://github.com/antivoland/revolut-test) between multi-currency accounts (2016)
 - [Microservice](https://github.com/antivoland/onefactor-test) tracking users and solving inverse geodesy problem (2016)
 - Senior level [test assignment](https://github.com/platbox/x-rates-java-test) for employment in an e-commerce company
-- Partial implementation of [pure client](../../../vazhno-api) for external JSON API (2016)
+- Partial implementation of [pure client](../../../vazhno-api) for an external JSON API (2016)
 - [Experiments](https://github.com/antivoland/nxt) with Lego Mindstorms NXT and [leJOS NXJ](https://lejos.sourceforge.io/) (2014)
 - [HTML grabber](../../../slone/tree/master/extractor) retrieving and parsing game model from online game creator (2013)
 - [Remake](../../../dorphl) of semi-intelligent bot [Vosyana](https://github.com/digal/vosyana) (2013)
