@@ -18,7 +18,7 @@ Take a look at my code here:
 - Web application with possibility to visualize and manage [employee structure hierarchy](https://github.com/antivoland/tallink-test) (2016)
 - Backing implementation of [money transfers](https://github.com/antivoland/revolut-test) between multi-currency accounts (2016)
 - Microservice tracking users and solving [inverse geodesy problem](https://github.com/antivoland/onefactor-test) (2016)
-- Senior level [test assignment](https://github.com/platbox/x-rates-java-test) for employment in an e-commerce company
+- Senior level [test assignment](https://github.com/platbox/x-rates-java-test) for employment in an e-commerce company (2016)
 - Partial implementation of [pure client](https://github.com/antivoland/vazhno-api) for an external JSON API (2016)
 - [Experiments](https://github.com/antivoland/nxt) with Lego Mindstorms NXT and leJOS NXJ (2014)
 - [HTML grabber](https://github.com/antivoland/slone/tree/master/extractor) retrieving and parsing game model from online game creator (2013)
