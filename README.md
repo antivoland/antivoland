@@ -8,7 +8,7 @@ In addition to my passion for software development, I am also a dog person. My f
 
 Take a look at my code here:
 
-- Finding the [shortest routes](https://github.com/antivoland/transporeon-test) between airports (with one tricky extra condition), performing Earth segmentation and building a cool GUI
+- Finding the [shortest routes](https://github.com/antivoland/transporeon-test) between airports (with one tricky extra condition), performing Earth segmentation and building a cool GUI (2023)
 - [Kotlin microservice](https://github.com/antivoland/jet-test) with money transfers utilizing optimistic locking and introducing [slurmesso](https://github.com/antivoland/jet-test/blob/main/src/test/kotlin/antivoland/jet/SlurmessoTest.kt#L18) (2023)
 - [Aggregating client](https://github.com/antivoland/sytac-test) for a SSE (server-sent event) streaming platform with an emoji dramedy in tests (2023)
 - [Grabber](https://github.com/antivoland/job-hunter) for job openings from LinkedIn public search and experiments with Deeplearning4j (2023)
