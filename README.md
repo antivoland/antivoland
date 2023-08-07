@@ -6,7 +6,7 @@ My personal goal is to further develop my skills in functional programming and m
 
 In addition to my passion for software development, I am also a dog person. My faithful companion Gauss, named after the famous mathematician, always keeps me company during working marathons and makes me smile with his cheerful behavior.
 
-Take a look at my code here:
+I'm currently working on [GroceryFamily](https://github.com/GroceryFamily) project. Check out my previous projects here:
 
 - Java library for easy management of [local file cache](https://github.com/antivoland/simple-file-cache) with Mona Lisa ASCII art gallery in the tests, best used with any kind of HTML scrapers (2023)
 - [Finding the shortest route](https://github.com/antivoland/transporeon-test) between airports with one tricky extra condition, performing Earth segmentation and building a cool GUI (2023)
