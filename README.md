@@ -16,7 +16,7 @@ I'm currently working on [GroceryFamily](https://github.com/GroceryFamily) proje
 - Making [one line CLI gaming engine](https://github.com/antivoland/console-viewport) (2022)
 - [Wikipedia table parser](https://github.com/antivoland/wiki-parser-for-my-dad) for my dad (2020)
 - [Generic list data structures](https://github.com/antivoland/amazon-test) supporting reverse, filter, map and fold-left operations (2018)
-- Non-blocking [console-based progress bar for Java](https://github.com/creditnet/console-progress-bar) with drunk pirates test (2017)
+- Non-blocking [console-based progress bar for Java](https://github.com/antivoland/console-progress-bar) with drunk pirates test (2017)
 - Names transliteration using [first order Hidden Markov Model](https://github.com/antivoland/amazinghiring-test/tree/master/translit/hmm) and [n-grams](https://github.com/antivoland/amazinghiring-test/tree/master/translit/ngram) (2016)
 - Web application with possibility to visualize and manage [employee structure hierarchy](https://github.com/antivoland/tallink-test) (2016)
 - Backing implementation of [money transfers](https://github.com/antivoland/revolut-test) between multi-currency accounts (2016)
