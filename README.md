@@ -10,7 +10,7 @@ I'm currently working on [GroceryFamily](https://github.com/GroceryFamily) proje
 
 - Java library for easy management of [local file cache](https://github.com/antivoland/simple-file-cache) with Mona Lisa ASCII art gallery in the tests, best used with any kind of HTML scrapers (2023)
 - [Finding the shortest route](https://github.com/antivoland/flight-connections) between airports with one tricky extra condition, performing Earth segmentation and building a cool GUI (2023)
-- [Kotlin microservice](https://github.com/antivoland/jet-test) with money transfers utilizing optimistic locking and introducing [slurmesso](https://github.com/antivoland/jet-test/blob/main/src/test/kotlin/antivoland/jet/SlurmessoTest.kt#L18) (2023)
+- [Kotlin microservice](https://github.com/antivoland/takeaway-pay) with money transfers utilizing optimistic locking and introducing [slurmesso](https://github.com/antivoland/jet-test/blob/main/src/test/kotlin/antivoland/jet/SlurmessoTest.kt#L18) (2023)
 - [Aggregating client](https://github.com/antivoland/sytac-test) for a SSE (server-sent event) streaming platform with an emoji dramedy in tests (2023)
 - [Grabber](https://github.com/antivoland/job-hunter) for job openings from LinkedIn public search and experiments with Deeplearning4j (2023)
 - Making [one line CLI gaming engine](https://github.com/antivoland/console-viewport) (2022)
