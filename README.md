@@ -1,6 +1,6 @@
 # Hi!
 
-I am a software engineer with over 20 years of experience in a wide variety of industries, including telecommunications, economic intelligence, fintech and game development. Now I specialize in distributed systems, microservice development, API development and database management. I also had the opportunity to lead teams, mentor junior engineers and play an active role in talent acquisition.
+I am a passionate software engineer with over 20 years of experience in a wide variety of industries, including telecommunications, economic intelligence, fintech and game development. Now I specialize in distributed systems, microservice development, API development and database management. I also had the opportunity to lead teams, mentor junior engineers and play an active role in talent acquisition.
 
 My personal goal is to further develop my skills in functional programming and machine learning, as well as to explore new areas such as robotics and quantum computing.
 
